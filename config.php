@@ -19,9 +19,9 @@ define('DB_TYPE', 'mysql'); //database drive eg. mysql, pgsql, mongodb etc
 // this is 4th branch
 
 //========== site details described here ========================
-define('SITE_TITLE', 'demo.com');
+define('SITE_TITLE', 'demo.com');dsdsdsssssssssssssssssssssssssssss
 define('SITE_TAG_LINE', 'give your tag line of your project here');
-
+dsdsdsdsdsdsd
 //contact ifnormation
 define('SITE_CONTACT', 'your number');
 //email information
