@@ -1,0 +1,98 @@
+[28-Aug-2023 10:41:20 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:20 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:20 UTC] PHP Fatal error:  Uncaught Error: Class "Admin" not found in /home3/dataqwxc/public_html/vestido/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/index.php on line 3
+[28-Aug-2023 10:41:25 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:25 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "Admin" not found in /home3/dataqwxc/public_html/vestido/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/index.php on line 3
+[28-Aug-2023 10:41:27 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:27 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "Admin" not found in /home3/dataqwxc/public_html/vestido/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/index.php on line 3
+[28-Aug-2023 10:41:27 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:27 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "Admin" not found in /home3/dataqwxc/public_html/vestido/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/index.php on line 3
+[28-Aug-2023 10:41:30 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:30 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:30 UTC] PHP Fatal error:  Uncaught Error: Class "Admin" not found in /home3/dataqwxc/public_html/vestido/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/index.php on line 3
+[28-Aug-2023 10:41:33 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:33 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:33 UTC] PHP Fatal error:  Uncaught Error: Class "Admin" not found in /home3/dataqwxc/public_html/vestido/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/index.php on line 3
+[28-Aug-2023 10:41:42 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:42 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/dataqwxc/public_html/vestido/index.php on line 2
+[28-Aug-2023 10:41:42 UTC] PHP Fatal error:  Uncaught Error: Class "Admin" not found in /home3/dataqwxc/public_html/vestido/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/index.php on line 3
+[29-Aug-2023 05:33:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Active' in 'where clause' in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/products.php(527): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[29-Aug-2023 05:34:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Active' in 'where clause' in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/products.php(527): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[29-Aug-2023 11:38:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Gray' in 'where clause' in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/productpage.php(7): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[29-Aug-2023 11:39:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Gray' in 'where clause' in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/productpage.php(7): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[29-Aug-2023 12:16:24 UTC] PHP Warning:  Undefined variable $uniqueId in /home3/dataqwxc/public_html/vestido/products.php on line 992
+[29-Aug-2023 12:22:32 UTC] PHP Warning:  Undefined variable $uniqueId in /home3/dataqwxc/public_html/vestido/products.php on line 992
+[29-Aug-2023 12:24:56 UTC] PHP Warning:  Undefined variable $uniqueId in /home3/dataqwxc/public_html/vestido/products.php on line 992
+[29-Aug-2023 12:26:56 UTC] PHP Warning:  Undefined variable $uniqueId in /home3/dataqwxc/public_html/vestido/products.php on line 992
+[29-Aug-2023 12:32:20 UTC] PHP Warning:  Undefined variable $uniqueId in /home3/dataqwxc/public_html/vestido/products.php on line 992
+[29-Aug-2023 15:35:07 UTC] PHP Warning:  Undefined variable $uniqueId in /home3/dataqwxc/public_html/vestido/products.php on line 992
+[29-Aug-2023 15:35:36 UTC] PHP Warning:  Undefined variable $uniqueId in /home3/dataqwxc/public_html/vestido/products.php on line 992
+[30-Aug-2023 14:01:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1 in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/productpage.php(7): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[30-Aug-2023 14:01:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"><' at line 1 in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/productpage.php(7): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[30-Aug-2023 14:01:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"><' at line 1 in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/productpage.php(7): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[30-Aug-2023 14:02:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*' at line 1 in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/productpage.php(7): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[31-Aug-2023 07:18:50 UTC] PHP Warning:  Undefined variable $uniqueId in /home3/dataqwxc/public_html/vestido/products.php on line 992

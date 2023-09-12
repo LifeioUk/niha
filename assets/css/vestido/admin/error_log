@@ -1,0 +1,24 @@
+[28-Aug-2023 12:25:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dataqwxc_vestido.queries' doesn't exist in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/admin/query-list.php(96): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[28-Aug-2023 12:25:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dataqwxc_vestido.queries' doesn't exist in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/admin/query-list.php(96): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[28-Aug-2023 12:25:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dataqwxc_vestido.queries' doesn't exist in /home3/dataqwxc/public_html/vestido/app/Admin.php:97
+Stack trace:
+#0 /home3/dataqwxc/public_html/vestido/app/Admin.php(97): PDOStatement->execute()
+#1 /home3/dataqwxc/public_html/vestido/admin/query-list.php(96): Admin->ret(Object(PDOStatement))
+#2 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/app/Admin.php on line 97
+[29-Aug-2023 06:33:10 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/dataqwxc/public_html/vestido/admin/index.php on line 2
+[29-Aug-2023 06:33:10 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/dataqwxc/public_html/vestido/admin/index.php on line 2
+[29-Aug-2023 06:33:10 UTC] PHP Fatal error:  Uncaught Error: Class "Admin" not found in /home3/dataqwxc/public_html/vestido/admin/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/dataqwxc/public_html/vestido/admin/index.php on line 3
