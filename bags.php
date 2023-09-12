@@ -44,7 +44,7 @@
          <div class="tp-filter-offcanvas-close">
             <button type="button" class="tp-filter-offcanvas-close-btn filter-close-btn">
                <i class="fa-solid fa-xmark"></i>
-               Close
+               Hello
             </button>
          </div>
          <div class="tp-shop-sidebar">
