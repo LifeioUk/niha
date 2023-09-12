@@ -1,10 +1,14 @@
 <?php
 include 'config.php';
  
-?><!doctype html>
-<html class="no-js" lang="zxx">
-   <head>
-      <meta charset="utf-8">
+
+
+
+
+
+
+
+
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <title>Vestido</title>
       <meta name="description" content="">
