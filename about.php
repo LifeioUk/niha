@@ -1,6 +1,6 @@
 <?php
 include 'config.php';
-$admin = new Admin(); 
+ 
 ?><!doctype html>
 <html class="no-js" lang="zxx">
    <head>
